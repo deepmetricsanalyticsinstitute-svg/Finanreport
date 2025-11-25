@@ -1,0 +1,5 @@
+{
+  "name": "Monthly Finance Tracker 2344",
+  "description": "A simple React web application to track monthly income, expenses, and savings, with a visual summary and a pie chart.",
+  "requestFramePermissions": []
+}
